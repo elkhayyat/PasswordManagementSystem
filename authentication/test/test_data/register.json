@@ -1,0 +1,16 @@
+{
+    "personal_account": {
+        "email": "elkhayyat.me@gmail.com",
+        "password": "123456",
+        "first_name": "Ahmed",
+        "last_name": "El Khayyat",
+        "tenant_type": "personal"
+    },
+    "business_account": {
+        "email": "elkhayyat@kian.com.sa",
+        "password": "123456",
+        "first_name": "Ahmed",
+        "last_name": "El Khayyat",
+        "tenant_type": "business"
+    }
+}
